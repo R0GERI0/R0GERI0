@@ -4,7 +4,7 @@
 
 - 📚 Estudante de Programação - ETB [Escola Técnica de Brasília]
 - 💻 Mudando de profissão - Automação -> Desenvolvedor
-- 💪 Estou em constante crescimento profissional e pessoal
+- 💪 Em constante crescimento profissional e pessoal
 
 ##
 ### |&nbsp; Estou aprendendo:
