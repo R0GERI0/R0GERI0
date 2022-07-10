@@ -1,6 +1,6 @@
-![Título](https://github.com/R0GERI0/R0GERI0/blob/output/teste.svg)
+# /|||:. &nbsp; Rogério Nascimento &nbsp;.:|||\
 
-## Bem vindo ao meu perfil GitHub!
+## Bem vindo ao meu perfil do GitHub!
 
 - 📚 Estudante de Programação - ETB [Escola Técnica de Brasília]
 - 💻 Mudando de profissão - Automação -> Desenvolvedor
