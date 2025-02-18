@@ -3,6 +3,8 @@
 ## Bem vindo ao meu perfil do GitHub!
 
 - 📚 Estudante de Programação - ETB [Escola Técnica de Brasília]
+- 📚 Estudante de Programação - IFB [Instituto Federal de Brasília]
+- 📚 Estudante de Programação - SENAI [Serviço Nacional de Aprendizagem Industrial]
 - 💻 Mudando de profissão - Automação -> Desenvolvedor
 - 💪 Em constante crescimento profissional e pessoal
 
